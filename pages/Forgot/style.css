@@ -1,0 +1,30 @@
+.background {
+  background-color: #080B10;
+  width: 100vw;
+  height: 100vh;
+}
+
+.title {
+  color: #FFF;
+}
+
+.imageLogin {
+  width: 500px;
+  height: 500px;
+  margin-top: 10px;
+}
+
+#button {
+  background-color: #329B2A;
+  border: #329B2A;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+#icon{
+  color: #329B2A;
+  font-size: 40px;
+  position: relative;
+  bottom: 150px;
+  right: 100px;
+}
